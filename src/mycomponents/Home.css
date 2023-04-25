@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(163, 193, 210);
+}
+.abc{
+    border: 1px solid blue;
+    border-radius: 20px 20px;
+    background-color: blue;
+    color: white;
+    
+}
+.list-heading{
+    border: 1px solid rgb(41, 169, 232);
+    background-color: rgb(41, 169, 232);
+    border-radius: 20px 20px;
+    font-size: 30px;
+    color: white;
+}
+.listdata{
+  border: 1px solid rgb(41, 169, 232);  
+  background-color: rgb(41, 169, 232);
+  border-radius: 20px 20px;
+  font-size: 20px;
+  color: white;
+  width: 350px;
+
+  float: left;
+  margin-bottom: 20px;
+  
+}
+.pull-right{
+    border: 1px solid red;
+    border-radius: 20px 20px;
+ 
+    width: 200px;
+    float: right;
+    margin-bottom: 20px;
+}
